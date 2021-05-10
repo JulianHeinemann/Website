@@ -1,0 +1,48 @@
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#top{
+
+    text-align: center;
+}
+#Logo{
+    color:white;
+    background-color: green;
+    display: inline-flex;
+    font-size: 32px;
+    font-weight: bold;
+    padding: auto;
+    margin-top: 16px;
+}
+
+#logo-name{
+
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 8px;
+    color:khaki;        
+
+}
+#navigation a{
+    color: green;
+    padding: 8px;
+}
+
+#navigation a:hover{
+
+    color:khaki;
+}
+#image img{
+    width: 100%;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+#main{
+    max-width: 800px;
+    margin: auto;
+}
+#footer {
+    text-align: center;
+    color: khaki;
+}
